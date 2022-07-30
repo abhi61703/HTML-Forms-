@@ -1,0 +1,22 @@
+h1  {
+    text-align: center;
+    color: red;
+
+}
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+form {
+    background-color: antiquewhite;
+    text-align: left;
+    padding: 10%;
+    margin: 10%;
+
+
+}
+h3 {
+    text-align: center;
+    margin-top: 0%;
+}
